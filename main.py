@@ -14,7 +14,6 @@ def byYear(year):
     url = 'https://en.wikipedia.org/wiki/' + str(year) + '_NCAA_Division_I_Men%27s_Basketball_Tournament'
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
-    # tables = soup.findAll('table')
     h3s = soup.findAll('h3')
     for i, h3 in enumerate(h3s):
         lst = list(h3.children)
