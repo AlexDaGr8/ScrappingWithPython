@@ -1,0 +1,694 @@
+year,region,round,t1Name,t1Rank,t1Score,t1Win,t2Name,t2Rank,t2Score,t2Win
+2008,"East Regional – Charlotte, North Carolina",round1,North Carolina,1,113,True,Mount St. Mary's,16,74,False
+2008,"East Regional – Charlotte, North Carolina",round2,North Carolina,1,108,True,Arkansas,9,77,False
+2008,"East Regional – Charlotte, North Carolina",round1,Indiana,8,72,False,Arkansas,9,86,True
+2008,"East Regional – Charlotte, North Carolina",round3,North Carolina,1,68,True,Washington St.,4,47,False
+2008,"East Regional – Charlotte, North Carolina",round1,Notre Dame,5,68,True,George Mason,12,50,False
+2008,"East Regional – Charlotte, North Carolina",round2,Notre Dame,5,41,False,Washington St.,4,61,True
+2008,"East Regional – Charlotte, North Carolina",round1,Washington St.,4,71,True,Winthrop,13,40,False
+2008,"East Regional – Charlotte, North Carolina",round4,North Carolina,1,83,True,Louisville,3,73,False
+2008,"East Regional – Charlotte, North Carolina",round1,Oklahoma,6,72,True,St. Joseph's,11,64,False
+2008,"East Regional – Charlotte, North Carolina",round2,Oklahoma,6,48,False,Louisville,3,78,True
+2008,"East Regional – Charlotte, North Carolina",round1,Louisville,3,79,True,Boise St.,14,61,False
+2008,"East Regional – Charlotte, North Carolina",round3,Louisville,3,79,True,Tennessee,2,60,False
+2008,"East Regional – Charlotte, North Carolina",round1,Butler,7,81,True,South Alabama,10,61,False
+2008,"East Regional – Charlotte, North Carolina",round2,Butler,7,71,False,Tennessee,2,76*,True
+2008,"East Regional – Charlotte, North Carolina",round1,Tennessee,2,72,True,American,15,57,False
+2008,"Midwest Regional – Detroit, Michigan",round1,Kansas,1,85,True,Portland St.,16,61,False
+2008,"Midwest Regional – Detroit, Michigan",round2,Kansas,1,75,True,UNLV,8,56,False
+2008,"Midwest Regional – Detroit, Michigan",round1,UNLV,8,71,True,Kent St.,9,58,False
+2008,"Midwest Regional – Detroit, Michigan",round3,Kansas,1,72,True,Villanova,12,57,False
+2008,"Midwest Regional – Detroit, Michigan",round1,Clemson,5,69,False,Villanova,12,75,True
+2008,"Midwest Regional – Detroit, Michigan",round2,Villanova,12,84,True,Siena,13,72,False
+2008,"Midwest Regional – Detroit, Michigan",round1,Vanderbilt,4,62,False,Siena,13,83,True
+2008,"Midwest Regional – Detroit, Michigan",round4,Kansas,1,59,True,Davidson,10,57,False
+2008,"Midwest Regional – Detroit, Michigan",round1,Southern California,6,67,False,Kansas St.,11,80,True
+2008,"Midwest Regional – Detroit, Michigan",round2,Kansas St.,11,55,False,Wisconsin,3,72,True
+2008,"Midwest Regional – Detroit, Michigan",round1,Wisconsin,3,71,True,Cal State Fullerton,14,56,False
+2008,"Midwest Regional – Detroit, Michigan",round3,Wisconsin,3,56,False,Davidson,10,73,True
+2008,"Midwest Regional – Detroit, Michigan",round1,Gonzaga,7,76,False,Davidson,10,82,True
+2008,"Midwest Regional – Detroit, Michigan",round2,Davidson,10,74,True,Georgetown,2,70,False
+2008,"Midwest Regional – Detroit, Michigan",round1,Georgetown,2,66,True,UMBC,15,47,False
+2008,"South Regional – Houston, Texas",round1,Memphis,1,87,True,Texas–Arlington,16,63,False
+2008,"South Regional – Houston, Texas",round2,Memphis,1,77,True,Mississippi State,8,74,False
+2008,"South Regional – Houston, Texas",round1,Mississippi State,8,76,True,Oregon,9,69,False
+2008,"South Regional – Houston, Texas",round3,Memphis,1,92,True,Michigan State,5,74,False
+2008,"South Regional – Houston, Texas",round1,Michigan State,5,72,True,Temple,12,61,False
+2008,"South Regional – Houston, Texas",round2,Michigan State,5,65,True,Pittsburgh,4,54,False
+2008,"South Regional – Houston, Texas",round1,Pittsburgh,4,82,True,Oral Roberts,13,63,False
+2008,"South Regional – Houston, Texas",round4,Memphis,1,85,True,Texas,2,67,False
+2008,"South Regional – Houston, Texas",round1,Marquette,6,74,True,Kentucky,11,66,False
+2008,"South Regional – Houston, Texas",round2,Marquette,6,81,False,Stanford,3,82*,True
+2008,"South Regional – Houston, Texas",round1,Stanford,3,77,True,Cornell,14,53,False
+2008,"South Regional – Houston, Texas",round3,Stanford,3,62,False,Texas,2,82,True
+2008,"South Regional – Houston, Texas",round1,Miami (FL),7,78,True,Saint Mary's,10,64,False
+2008,"South Regional – Houston, Texas",round2,Miami (FL),7,72,False,Texas,2,75,True
+2008,"South Regional – Houston, Texas",round1,Texas,2,74,True,Austin Peay,15,54,False
+2008,"West Regional – Phoenix, Arizona",round1,UCLA,1,70,True,Miss Valley St.,16,29,False
+2008,"West Regional – Phoenix, Arizona",round2,UCLA,1,51,True,Texas A&M,9,49,False
+2008,"West Regional – Phoenix, Arizona",round1,BYU,8,62,False,Texas A&M,9,67,True
+2008,"West Regional – Phoenix, Arizona",round3,UCLA,1,88,True,WKU,12,78,False
+2008,"West Regional – Phoenix, Arizona",round1,Drake,5,99,False,WKU,12,101*,True
+2008,"West Regional – Phoenix, Arizona",round2,WKU,12,72,True,San Diego,13,63,False
+2008,"West Regional – Phoenix, Arizona",round1,Connecticut,4,69,False,San Diego,13,70*,True
+2008,"West Regional – Phoenix, Arizona",round4,UCLA,1,76,True,Xavier,3,57,False
+2008,"West Regional – Phoenix, Arizona",round1,Purdue,6,90,True,Baylor,11,79,False
+2008,"West Regional – Phoenix, Arizona",round2,Purdue,6,78,False,Xavier,3,85,True
+2008,"West Regional – Phoenix, Arizona",round1,Xavier,3,73,True,Georgia,14,61,False
+2008,"West Regional – Phoenix, Arizona",round3,Xavier,3,79*,True,West Virginia,7,75,False
+2008,"West Regional – Phoenix, Arizona",round1,West Virginia,7,75,True,Arizona,10,65,False
+2008,"West Regional – Phoenix, Arizona",round2,West Virginia,7,73,True,Duke,2,67,False
+2008,"West Regional – Phoenix, Arizona",round1,Duke,2,71,True,Belmont,15,70,False
+2008,"Final Four – Alamodome, San Antonio, Texas",round5,North Carolina,E1,66,False,Kansas,M1,84,True
+2008,"Final Four – Alamodome, San Antonio, Texas",round6,Kansas,M1,75*,True,Memphis,S1,68,False
+2008,"Final Four – Alamodome, San Antonio, Texas",round5,Memphis,S1,78,True,UCLA,W1,63,False
+2009,"Midwest Regional – Indianapolis, Indiana",round1,Louisville,1,74,True,Morehead State,16,54,False
+2009,"Midwest Regional – Indianapolis, Indiana",round2,Louisville,1,79,True,Siena,9,72,False
+2009,"Midwest Regional – Indianapolis, Indiana",round1,Ohio State,8,72,False,Siena,9,74**,True
+2009,"Midwest Regional – Indianapolis, Indiana",round3,Louisville,1,103,True,Arizona,12,64,False
+2009,"Midwest Regional – Indianapolis, Indiana",round1,Utah,5,71,False,Arizona,12,84,True
+2009,"Midwest Regional – Indianapolis, Indiana",round2,Arizona,12,71,True,Cleveland State,13,57,False
+2009,"Midwest Regional – Indianapolis, Indiana",round1,Wake Forest,4,69,False,Cleveland State,13,84,True
+2009,"Midwest Regional – Indianapolis, Indiana",round4,Louisville,1,52,False,Michigan State,2,64,True
+2009,"Midwest Regional – Indianapolis, Indiana",round1,West Virginia,6,60,False,Dayton,11,68,True
+2009,"Midwest Regional – Indianapolis, Indiana",round2,Dayton,11,43,False,Kansas,3,60,True
+2009,"Midwest Regional – Indianapolis, Indiana",round1,Kansas,3,84,True,North Dakota State,14,74,False
+2009,"Midwest Regional – Indianapolis, Indiana",round3,Kansas,3,62,False,Michigan State,2,67,True
+2009,"Midwest Regional – Indianapolis, Indiana",round1,Boston College,7,55,False,USC,10,72,True
+2009,"Midwest Regional – Indianapolis, Indiana",round2,USC,10,69,False,Michigan State,2,74,True
+2009,"Midwest Regional – Indianapolis, Indiana",round1,Michigan State,2,77,True,Robert Morris,15,62,False
+2009,"West Regional – Glendale, Arizona",round1,Connecticut,1,103,True,Chattanooga,16,47,False
+2009,"West Regional – Glendale, Arizona",round2,Connecticut,1,92,True,Texas A&M,9,66,False
+2009,"West Regional – Glendale, Arizona",round1,BYU,8,66,False,Texas A&M,9,79,True
+2009,"West Regional – Glendale, Arizona",round3,Connecticut,1,72,True,Purdue,5,60,False
+2009,"West Regional – Glendale, Arizona",round1,Purdue,5,61,True,Northern Iowa,12,56,False
+2009,"West Regional – Glendale, Arizona",round2,Purdue,5,76,True,Washington,4,74,False
+2009,"West Regional – Glendale, Arizona",round1,Washington,4,71,True,Mississippi State,13,58,False
+2009,"West Regional – Glendale, Arizona",round4,Connecticut,1,82,True,Missouri,3,75,False
+2009,"West Regional – Glendale, Arizona",round1,Marquette,6,58,True,Utah State,11,57,False
+2009,"West Regional – Glendale, Arizona",round2,Marquette,6,79,False,Missouri,3,83,True
+2009,"West Regional – Glendale, Arizona",round1,Missouri,3,78,True,Cornell,14,59,False
+2009,"West Regional – Glendale, Arizona",round3,Missouri,3,102,True,Memphis,2,91,False
+2009,"West Regional – Glendale, Arizona",round1,California,7,71,False,Maryland,10,84,True
+2009,"West Regional – Glendale, Arizona",round2,Maryland,10,70,False,Memphis,2,89,True
+2009,"West Regional – Glendale, Arizona",round1,Memphis,2,81,True,Cal State Northridge,15,70,False
+2009,"East Regional – Boston, Massachusetts",round1,Pittsburgh,1,72,True,East Tennessee St.,16,62,False
+2009,"East Regional – Boston, Massachusetts",round2,Pittsburgh,1,84,True,Oklahoma State,8,76,False
+2009,"East Regional – Boston, Massachusetts",round1,Oklahoma State,8,77,True,Tennessee,9,75,False
+2009,"East Regional – Boston, Massachusetts",round3,Pittsburgh,1,60,True,Xavier,4,55,False
+2009,"East Regional – Boston, Massachusetts",round1,Florida St.,5,59,False,Wisconsin,12,61*,True
+2009,"East Regional – Boston, Massachusetts",round2,Wisconsin,12,49,False,Xavier,4,60,True
+2009,"East Regional – Boston, Massachusetts",round1,Xavier,4,77,True,Portland St.,13,59,False
+2009,"East Regional – Boston, Massachusetts",round4,Pittsburgh,1,76,False,Villanova,3,78,True
+2009,"East Regional – Boston, Massachusetts",round1,UCLA,6,65,True,VCU,11,64,False
+2009,"East Regional – Boston, Massachusetts",round2,UCLA,6,69,False,Villanova,3,89,True
+2009,"East Regional – Boston, Massachusetts",round1,Villanova,3,80,True,American,14,67,False
+2009,"East Regional – Boston, Massachusetts",round3,Villanova,3,77,True,Duke,2,54,False
+2009,"East Regional – Boston, Massachusetts",round1,Texas,7,76,True,Minnesota,10,62,False
+2009,"East Regional – Boston, Massachusetts",round2,Texas,7,69,False,Duke,2,74,True
+2009,"East Regional – Boston, Massachusetts",round1,Duke,2,86,True,Binghamton,15,62,False
+2009,"South Regional – Memphis, Tennessee",round1,North Carolina,1,101,True,Radford,16,58,False
+2009,"South Regional – Memphis, Tennessee",round2,North Carolina,1,84,True,LSU,8,70,False
+2009,"South Regional – Memphis, Tennessee",round1,LSU,8,75,True,Butler,9,71,False
+2009,"South Regional – Memphis, Tennessee",round3,North Carolina,1,98,True,Gonzaga,4,77,False
+2009,"South Regional – Memphis, Tennessee",round1,Illinois,5,72,False,WKU,12,76,True
+2009,"South Regional – Memphis, Tennessee",round2,WKU,12,81,False,Gonzaga,4,83,True
+2009,"South Regional – Memphis, Tennessee",round1,Gonzaga,4,77,True,Akron,13,64,False
+2009,"South Regional – Memphis, Tennessee",round4,North Carolina,1,72,True,Oklahoma,2,60,False
+2009,"South Regional – Memphis, Tennessee",round1,Arizona State,6,66,True,Temple,11,57,False
+2009,"South Regional – Memphis, Tennessee",round2,Arizona State,6,67,False,Syracuse,3,78,True
+2009,"South Regional – Memphis, Tennessee",round1,Syracuse,3,59,True,Stephen F. Austin,14,44,False
+2009,"South Regional – Memphis, Tennessee",round3,Syracuse,3,71,False,Oklahoma,2,84,True
+2009,"South Regional – Memphis, Tennessee",round1,Clemson,7,59,False,Michigan,10,62,True
+2009,"South Regional – Memphis, Tennessee",round2,Michigan,10,63,False,Oklahoma,2,73,True
+2009,"South Regional – Memphis, Tennessee",round1,Oklahoma,2,82,True,Morgan State,15,54,False
+2009,"Final Four – Ford Field, Detroit, Michigan",round5,Michigan St.,M2,82,True,Connecticut,W1,73,False
+2009,"Final Four – Ford Field, Detroit, Michigan",round6,Michigan St.,M2,72,False,North Carolina,S1,89,True
+2009,"Final Four – Ford Field, Detroit, Michigan",round5,Villanova,E3,69,False,North Carolina,S1,83,True
+2010,"Midwest Regional – St. Louis, Missouri",round1,Kansas,1,90,True,Lehigh,16,74,False
+2010,"Midwest Regional – St. Louis, Missouri",round2,Kansas,1,67,False,Northern Iowa,9,69,True
+2010,"Midwest Regional – St. Louis, Missouri",round1,UNLV,8,66,False,Northern Iowa,9,69,True
+2010,"Midwest Regional – St. Louis, Missouri",round3,Northern Iowa,9,52,False,Michigan State,5,59,True
+2010,"Midwest Regional – St. Louis, Missouri",round1,Michigan State,5,70,True,New Mexico State,12,67,False
+2010,"Midwest Regional – St. Louis, Missouri",round2,Michigan State,5,85,True,Maryland,4,83,False
+2010,"Midwest Regional – St. Louis, Missouri",round1,Maryland,4,89,True,Houston,13,77,False
+2010,"Midwest Regional – St. Louis, Missouri",round4,Michigan State,5,70,True,Tennessee,6,69,False
+2010,"Midwest Regional – St. Louis, Missouri",round1,Tennessee,6,62,True,San Diego State,11,59,False
+2010,"Midwest Regional – St. Louis, Missouri",round2,Tennessee,6,83,True,Ohio,14,68,False
+2010,"Midwest Regional – St. Louis, Missouri",round1,Georgetown,3,83,False,Ohio,14,97,True
+2010,"Midwest Regional – St. Louis, Missouri",round3,Tennessee,6,76,True,Ohio State,2,73,False
+2010,"Midwest Regional – St. Louis, Missouri",round1,Oklahoma State,7,59,False,Georgia Tech,10,64,True
+2010,"Midwest Regional – St. Louis, Missouri",round2,Georgia Tech,10,66,False,Ohio State,2,75,True
+2010,"Midwest Regional – St. Louis, Missouri",round1,Ohio State,2,68,True,UC Santa Barbara,15,51,False
+2010,"West Regional – Salt Lake City, Utah",round1,Syracuse,1,79,True,Vermont,16,56,False
+2010,"West Regional – Salt Lake City, Utah",round2,Syracuse,1,87,True,Gonzaga,8,65,False
+2010,"West Regional – Salt Lake City, Utah",round1,Gonzaga,8,67,True,Florida State,9,60,False
+2010,"West Regional – Salt Lake City, Utah",round3,Syracuse,1,59,False,Butler,5,63,True
+2010,"West Regional – Salt Lake City, Utah",round1,Butler,5,77,True,UTEP,12,59,False
+2010,"West Regional – Salt Lake City, Utah",round2,Butler,5,54,True,Murray State,13,52,False
+2010,"West Regional – Salt Lake City, Utah",round1,Vanderbilt,4,65,False,Murray State,13,66,True
+2010,"West Regional – Salt Lake City, Utah",round4,Butler,5,63,True,Kansas State,2,56,False
+2010,"West Regional – Salt Lake City, Utah",round1,Xavier,6,65,True,Minnesota,11,54,False
+2010,"West Regional – Salt Lake City, Utah",round2,Xavier,6,71,True,Pittsburgh,3,68,False
+2010,"West Regional – Salt Lake City, Utah",round1,Pittsburgh,3,89,True,Oakland,14,66,False
+2010,"West Regional – Salt Lake City, Utah",round3,Xavier,6,96,False,Kansas State,2,101**,True
+2010,"West Regional – Salt Lake City, Utah",round1,BYU,7,99**,True,Florida,10,92,False
+2010,"West Regional – Salt Lake City, Utah",round2,BYU,7,72,False,Kansas State,2,84,True
+2010,"West Regional – Salt Lake City, Utah",round1,Kansas State,2,82,True,North Texas,15,62,False
+2010,"East Regional – Syracuse, New York",round1,Kentucky,1,100,True,East Tennessee State,16,71,False
+2010,"East Regional – Syracuse, New York",round2,Kentucky,1,90,True,Wake Forest,9,60,False
+2010,"East Regional – Syracuse, New York",round1,Texas,8,80,False,Wake Forest,9,81*,True
+2010,"East Regional – Syracuse, New York",round3,Kentucky,1,62,True,Cornell,12,45,False
+2010,"East Regional – Syracuse, New York",round1,Temple,5,65,False,Cornell,12,78,True
+2010,"East Regional – Syracuse, New York",round2,Cornell,12,87,True,Wisconsin,4,69,False
+2010,"East Regional – Syracuse, New York",round1,Wisconsin,4,53,True,Wofford,13,49,False
+2010,"East Regional – Syracuse, New York",round4,Kentucky,1,66,False,West Virginia,2,73,True
+2010,"East Regional – Syracuse, New York",round1,Marquette,6,78,False,Washington,11,80,True
+2010,"East Regional – Syracuse, New York",round2,Washington,11,82,True,New Mexico,3,64,False
+2010,"East Regional – Syracuse, New York",round1,New Mexico,3,62,True,Montana,14,57,False
+2010,"East Regional – Syracuse, New York",round3,Washington,11,56,False,West Virginia,2,69,True
+2010,"East Regional – Syracuse, New York",round1,Clemson,7,78,False,Missouri,10,86,True
+2010,"East Regional – Syracuse, New York",round2,Missouri,10,59,False,West Virginia,2,68,True
+2010,"East Regional – Syracuse, New York",round1,West Virginia,2,77,True,Morgan State,15,50,False
+2010,"South Regional – Houston, Texas",round1,Duke,1,73,True,Arkansas-Pine Bluff,16,44,False
+2010,"South Regional – Houston, Texas",round2,Duke,1,68,True,California,8,53,False
+2010,"South Regional – Houston, Texas",round1,California,8,77,True,Louisville,9,62,False
+2010,"South Regional – Houston, Texas",round3,Duke,1,70,True,Purdue,4,57,False
+2010,"South Regional – Houston, Texas",round1,Texas A&M,5,69,True,Utah State,12,53,False
+2010,"South Regional – Houston, Texas",round2,Texas A&M,5,61,False,Purdue,4,63*,True
+2010,"South Regional – Houston, Texas",round1,Purdue,4,72,True,Siena,13,64,False
+2010,"South Regional – Houston, Texas",round4,Duke,1,78,True,Baylor,3,71,False
+2010,"South Regional – Houston, Texas",round1,Notre Dame,6,50,False,Old Dominion,11,51,True
+2010,"South Regional – Houston, Texas",round2,Old Dominion,11,68,False,Baylor,3,76,True
+2010,"South Regional – Houston, Texas",round1,Baylor,3,68,True,Sam Houston State,14,59,False
+2010,"South Regional – Houston, Texas",round3,Baylor,3,72,True,Saint Mary's,10,49,False
+2010,"South Regional – Houston, Texas",round1,Richmond,7,71,False,Saint Mary's,10,80,True
+2010,"South Regional – Houston, Texas",round2,Saint Mary's,10,75,True,Villanova,2,68,False
+2010,"South Regional – Houston, Texas",round1,Villanova,2,73*,True,Robert Morris,15,70,False
+2010,"Final Four - Lucas Oil Stadium, Indianapolis, Indiana",round5,Michigan State,M5,50,False,Butler,W5,52,True
+2010,"Final Four - Lucas Oil Stadium, Indianapolis, Indiana",round6,Butler,W5,59,False,Duke,S1,61,True
+2010,"Final Four - Lucas Oil Stadium, Indianapolis, Indiana",round5,West Virginia,E2,57,False,Duke,S1,78,True
+2011,"East Regional – Newark, New Jersey",round1,Ohio State,1,75,True,UTSA,16,46,False
+2011,"East Regional – Newark, New Jersey",round2,Ohio State,1,98,True,George Mason,8,66,False
+2011,"East Regional – Newark, New Jersey",round1,George Mason,8,61,True,Villanova,9,57,False
+2011,"East Regional – Newark, New Jersey",round3,Ohio State,1,60,False,Kentucky,4,62,True
+2011,"East Regional – Newark, New Jersey",round1,West Virginia,5,84,True,Clemson,12,76,False
+2011,"East Regional – Newark, New Jersey",round2,West Virginia,5,63,False,Kentucky,4,71,True
+2011,"East Regional – Newark, New Jersey",round1,Kentucky,4,59,True,Princeton,13,57,False
+2011,"East Regional – Newark, New Jersey",round4,Kentucky,4,76,True,North Carolina,2,69,False
+2011,"East Regional – Newark, New Jersey",round1,Xavier,6,55,False,Marquette,11,66,True
+2011,"East Regional – Newark, New Jersey",round2,Marquette,11,66,True,Syracuse,3,62,False
+2011,"East Regional – Newark, New Jersey",round1,Syracuse,3,77,True,Indiana State,14,60,False
+2011,"East Regional – Newark, New Jersey",round3,Marquette,11,63,False,North Carolina,2,81,True
+2011,"East Regional – Newark, New Jersey",round1,Washington,7,68,True,Georgia,10,65,False
+2011,"East Regional – Newark, New Jersey",round2,Washington,7,83,False,North Carolina,2,86,True
+2011,"East Regional – Newark, New Jersey",round1,North Carolina,2,102,True,Long Island,15,87,False
+2011,"West Regional – Anaheim, California",round1,Duke,1,87,True,Hampton,16,45,False
+2011,"West Regional – Anaheim, California",round2,Duke,1,73,True,Michigan,8,71,False
+2011,"West Regional – Anaheim, California",round1,Michigan,8,75,True,Tennessee,9,45,False
+2011,"West Regional – Anaheim, California",round3,Duke,1,77,False,Arizona,5,93,True
+2011,"West Regional – Anaheim, California",round1,Arizona,5,77,True,Memphis,12,75,False
+2011,"West Regional – Anaheim, California",round2,Arizona,5,70,True,Texas,4,69,False
+2011,"West Regional – Anaheim, California",round1,Texas,4,85,True,Oakland,13,81,False
+2011,"West Regional – Anaheim, California",round4,Arizona,5,63,False,Connecticut,3,65,True
+2011,"West Regional – Anaheim, California",round1,Cincinnati,6,78,True,Missouri,11,63,False
+2011,"West Regional – Anaheim, California",round2,Cincinnati,6,58,False,Connecticut,3,69,True
+2011,"West Regional – Anaheim, California",round1,Connecticut,3,81,True,Bucknell,14,52,False
+2011,"West Regional – Anaheim, California",round3,Connecticut,3,74,True,San Diego State,2,67,False
+2011,"West Regional – Anaheim, California",round1,Temple,7,66,True,Penn State,10,64,False
+2011,"West Regional – Anaheim, California",round2,Temple,7,64,False,San Diego State,2,71**,True
+2011,"West Regional – Anaheim, California",round1,San Diego State,2,68,True,Northern Colorado,15,50,False
+2011,"Southwest Regional – San Antonio, Texas",round1,Kansas,1,72,True,Boston University,16,53,False
+2011,"Southwest Regional – San Antonio, Texas",round2,Kansas,1,73,True,Illinois,9,59,False
+2011,"Southwest Regional – San Antonio, Texas",round1,UNLV,8,62,False,Illinois,9,73,True
+2011,"Southwest Regional – San Antonio, Texas",round3,Kansas,1,77,True,Richmond,12,57,False
+2011,"Southwest Regional – San Antonio, Texas",round1,Vanderbilt,5,66,False,Richmond,12,69,True
+2011,"Southwest Regional – San Antonio, Texas",round2,Richmond,12,65,True,Morehead State,13,48,False
+2011,"Southwest Regional – San Antonio, Texas",round1,Louisville,4,61,False,Morehead State,13,62,True
+2011,"Southwest Regional – San Antonio, Texas",round4,Kansas,1,61,False,VCU,11,71,True
+2011,"Southwest Regional – San Antonio, Texas",round1,Georgetown,6,56,False,VCU,11,74,True
+2011,"Southwest Regional – San Antonio, Texas",round2,VCU,11,94,True,Purdue,3,76,False
+2011,"Southwest Regional – San Antonio, Texas",round1,Purdue,3,65,True,Saint Peter's,14,43,False
+2011,"Southwest Regional – San Antonio, Texas",round3,VCU,11,72*,True,Florida State,10,71,False
+2011,"Southwest Regional – San Antonio, Texas",round1,Texas A&M,7,50,False,Florida State,10,57,True
+2011,"Southwest Regional – San Antonio, Texas",round2,Florida State,10,71,True,Notre Dame,2,57,False
+2011,"Southwest Regional – San Antonio, Texas",round1,Notre Dame,2,69,True,Akron,15,56,False
+2011,"Southeast Regional – New Orleans, Louisiana",round1,Pittsburgh,1,74,True,UNC Asheville,16,51,False
+2011,"Southeast Regional – New Orleans, Louisiana",round2,Pittsburgh,1,70,False,Butler,8,71,True
+2011,"Southeast Regional – New Orleans, Louisiana",round1,Butler,8,60,True,Old Dominion,9,58,False
+2011,"Southeast Regional – New Orleans, Louisiana",round3,Butler,8,61,True,Wisconsin,4,54,False
+2011,"Southeast Regional – New Orleans, Louisiana",round1,Kansas State,5,73,True,Utah State,12,68,False
+2011,"Southeast Regional – New Orleans, Louisiana",round2,Kansas State,5,65,False,Wisconsin,4,70,True
+2011,"Southeast Regional – New Orleans, Louisiana",round1,Wisconsin,4,72,True,Belmont,13,58,False
+2011,"Southeast Regional – New Orleans, Louisiana",round4,Butler,8,74*,True,Florida,2,71,False
+2011,"Southeast Regional – New Orleans, Louisiana",round1,St. John's,6,71,False,Gonzaga,11,86,True
+2011,"Southeast Regional – New Orleans, Louisiana",round2,Gonzaga,11,67,False,BYU,3,89,True
+2011,"Southeast Regional – New Orleans, Louisiana",round1,BYU,3,74,True,Wofford,14,66,False
+2011,"Southeast Regional – New Orleans, Louisiana",round3,BYU,3,74,False,Florida,2,83*,True
+2011,"Southeast Regional – New Orleans, Louisiana",round1,UCLA,7,78,True,Michigan State,10,76,False
+2011,"Southeast Regional – New Orleans, Louisiana",round2,UCLA,7,65,False,Florida,2,73,True
+2011,"Southeast Regional – New Orleans, Louisiana",round1,Florida,2,79,True,UC Santa Barbara,15,51,False
+2011,"Final Four – Reliant Stadium, Houston, Texas",round5,Kentucky,E4,55,False,Connecticut,W3,56,True
+2011,"Final Four – Reliant Stadium, Houston, Texas",round6,Connecticut,W3,53,True,Butler,SE8,41,False
+2011,"Final Four – Reliant Stadium, Houston, Texas",round5,VCU,SW11,62,False,Butler,SE8,70,True
+2012,"South Regional – Atlanta, Georgia",round1,Kentucky,1,81,True,Western Kentucky,16,66,False
+2012,"South Regional – Atlanta, Georgia",round2,Kentucky,1,87,True,Iowa State,8,71,False
+2012,"South Regional – Atlanta, Georgia",round1,Iowa State,8,77,True,Connecticut,9,64,False
+2012,"South Regional – Atlanta, Georgia",round3,Kentucky,1,102,True,Indiana,4,90,False
+2012,"South Regional – Atlanta, Georgia",round1,Wichita State,5,59,False,VCU,12,62,True
+2012,"South Regional – Atlanta, Georgia",round2,VCU,12,61,False,Indiana,4,63,True
+2012,"South Regional – Atlanta, Georgia",round1,Indiana,4,79,True,New Mexico State,13,66,False
+2012,"South Regional – Atlanta, Georgia",round4,Kentucky,1,82,True,Baylor,3,70,False
+2012,"South Regional – Atlanta, Georgia",round1,UNLV,6,64,False,Colorado,11,68,True
+2012,"South Regional – Atlanta, Georgia",round2,Colorado,11,63,False,Baylor,3,80,True
+2012,"South Regional – Atlanta, Georgia",round1,Baylor,3,68,True,South Dakota State,14,60,False
+2012,"South Regional – Atlanta, Georgia",round3,Baylor,3,75,True,Xavier,10,70,False
+2012,"South Regional – Atlanta, Georgia",round1,Notre Dame,7,63,False,Xavier,10,67,True
+2012,"South Regional – Atlanta, Georgia",round2,Xavier,10,70,True,Lehigh,15,58,False
+2012,"South Regional – Atlanta, Georgia",round1,Duke,2,70,False,Lehigh,15,75,True
+2012,"West Regional – Phoenix, Arizona",round1,Michigan State,1,89,True,Long Island,16,67,False
+2012,"West Regional – Phoenix, Arizona",round2,Michigan State,1,65,True,Saint Louis,9,61,False
+2012,"West Regional – Phoenix, Arizona",round1,Memphis,8,54,False,Saint Louis,9,61,True
+2012,"West Regional – Phoenix, Arizona",round3,Michigan State,1,44,False,Louisville,4,57,True
+2012,"West Regional – Phoenix, Arizona",round1,New Mexico,5,75,True,Long Beach State,12,68,False
+2012,"West Regional – Phoenix, Arizona",round2,New Mexico,5,56,False,Louisville,4,59,True
+2012,"West Regional – Phoenix, Arizona",round1,Louisville,4,69,True,Davidson,13,62,False
+2012,"West Regional – Phoenix, Arizona",round4,Louisville,4,72,True,Florida,7,68,False
+2012,"West Regional – Phoenix, Arizona",round1,Murray State,6,58,True,Colorado State,11,41,False
+2012,"West Regional – Phoenix, Arizona",round2,Murray State,6,53,False,Marquette,3,62,True
+2012,"West Regional – Phoenix, Arizona",round1,Marquette,3,88,True,BYU,14,68,False
+2012,"West Regional – Phoenix, Arizona",round3,Marquette,3,58,False,Florida,7,68,True
+2012,"West Regional – Phoenix, Arizona",round1,Florida,7,71,True,Virginia,10,45,False
+2012,"West Regional – Phoenix, Arizona",round2,Florida,7,84,True,Norfolk State,15,50,False
+2012,"West Regional – Phoenix, Arizona",round1,Missouri,2,84,False,Norfolk State,15,86,True
+2012,"East Regional – Boston, Massachusetts",round1,Syracuse,1,72,True,UNC Asheville,16,65,False
+2012,"East Regional – Boston, Massachusetts",round2,Syracuse,1,75,True,Kansas State,8,59,False
+2012,"East Regional – Boston, Massachusetts",round1,Kansas State,8,70,True,Southern Miss,9,64,False
+2012,"East Regional – Boston, Massachusetts",round3,Syracuse,1,64,True,Wisconsin,4,63,False
+2012,"East Regional – Boston, Massachusetts",round1,Vanderbilt,5,79,True,Harvard,12,70,False
+2012,"East Regional – Boston, Massachusetts",round2,Vanderbilt,5,57,False,Wisconsin,4,60,True
+2012,"East Regional – Boston, Massachusetts",round1,Wisconsin,4,73,True,Montana,13,49,False
+2012,"East Regional – Boston, Massachusetts",round4,Syracuse,1,70,False,Ohio State,2,77,True
+2012,"East Regional – Boston, Massachusetts",round1,Cincinnati,6,65,True,Texas,11,59,False
+2012,"East Regional – Boston, Massachusetts",round2,Cincinnati,6,62,True,Florida State,3,56,False
+2012,"East Regional – Boston, Massachusetts",round1,Florida State,3,66,True,St. Bonaventure,14,63,False
+2012,"East Regional – Boston, Massachusetts",round3,Cincinnati,6,66,False,Ohio State,2,81,True
+2012,"East Regional – Boston, Massachusetts",round1,Gonzaga,7,77,True,West Virginia,10,54,False
+2012,"East Regional – Boston, Massachusetts",round2,Gonzaga,7,66,False,Ohio State,2,73,True
+2012,"East Regional – Boston, Massachusetts",round1,Ohio State,2,78,True,Loyola (MD),15,59,False
+2012,"Midwest Regional – St. Louis, Missouri",round1,North Carolina,1,77,True,Vermont,16,58,False
+2012,"Midwest Regional – St. Louis, Missouri",round2,North Carolina,1,87,True,Creighton,8,73,False
+2012,"Midwest Regional – St. Louis, Missouri",round1,Creighton,8,58,True,Alabama,9,57,False
+2012,"Midwest Regional – St. Louis, Missouri",round3,North Carolina,1,73*,True,Ohio,13,65,False
+2012,"Midwest Regional – St. Louis, Missouri",round1,Temple,5,44,False,South Florida,12,58,True
+2012,"Midwest Regional – St. Louis, Missouri",round2,South Florida,12,56,False,Ohio,13,62,True
+2012,"Midwest Regional – St. Louis, Missouri",round1,Michigan,4,60,False,Ohio,13,65,True
+2012,"Midwest Regional – St. Louis, Missouri",round4,North Carolina,1,67,False,Kansas,2,80,True
+2012,"Midwest Regional – St. Louis, Missouri",round1,San Diego State,6,65,False,North Carolina State,11,79,True
+2012,"Midwest Regional – St. Louis, Missouri",round2,North Carolina State,11,66,True,Georgetown,3,63,False
+2012,"Midwest Regional – St. Louis, Missouri",round1,Georgetown,3,74,True,Belmont,14,59,False
+2012,"Midwest Regional – St. Louis, Missouri",round3,North Carolina State,11,57,False,Kansas,2,60,True
+2012,"Midwest Regional – St. Louis, Missouri",round1,Saint Mary's,7,69,False,Purdue,10,72,True
+2012,"Midwest Regional – St. Louis, Missouri",round2,Purdue,10,60,False,Kansas,2,63,True
+2012,"Midwest Regional – St. Louis, Missouri",round1,Kansas,2,65,True,Detroit,15,50,False
+2012,"Final Four – Mercedes-Benz Superdome, New Orleans, Louisiana",round5,Kentucky,S1,69,True,Louisville,W4,61,False
+2012,"Final Four – Mercedes-Benz Superdome, New Orleans, Louisiana",round6,Kentucky,S1,67,True,Kansas,MW2,59,False
+2012,"Final Four – Mercedes-Benz Superdome, New Orleans, Louisiana",round5,Ohio State,E2,62,False,Kansas,MW2,64,True
+2013,"Midwest Regional – Indianapolis, Indiana",round1,Louisville,1,79,True,North Carolina A&T,16,48,False
+2013,"Midwest Regional – Indianapolis, Indiana",round2,Louisville,1,82,True,Colorado State,8,56,False
+2013,"Midwest Regional – Indianapolis, Indiana",round1,Colorado State,8,84,True,Missouri,9,72,False
+2013,"Midwest Regional – Indianapolis, Indiana",round3,Louisville,1,77,True,Oregon,12,69,False
+2013,"Midwest Regional – Indianapolis, Indiana",round1,Oklahoma State,5,55,False,Oregon,12,68,True
+2013,"Midwest Regional – Indianapolis, Indiana",round2,Oregon,12,74,True,Saint Louis,4,57,False
+2013,"Midwest Regional – Indianapolis, Indiana",round1,Saint Louis,4,64,True,New Mexico State,13,44,False
+2013,"Midwest Regional – Indianapolis, Indiana",round4,Louisville,1,85,True,Duke,2,63,False
+2013,"Midwest Regional – Indianapolis, Indiana",round1,Memphis,6,54,True,Saint Mary's,11,52,False
+2013,"Midwest Regional – Indianapolis, Indiana",round2,Memphis,6,48,False,Michigan State,3,70,True
+2013,"Midwest Regional – Indianapolis, Indiana",round1,Michigan State,3,65,True,Valparaiso,14,54,False
+2013,"Midwest Regional – Indianapolis, Indiana",round3,Michigan State,3,61,False,Duke,2,71,True
+2013,"Midwest Regional – Indianapolis, Indiana",round1,Creighton,7,67,True,Cincinnati,10,63,False
+2013,"Midwest Regional – Indianapolis, Indiana",round2,Creighton,7,50,False,Duke,2,66,True
+2013,"Midwest Regional – Indianapolis, Indiana",round1,Duke,2,73,True,Albany,15,61,False
+2013,"West Regional – Los Angeles, California",round1,Gonzaga,1,64,True,Southern,16,58,False
+2013,"West Regional – Los Angeles, California",round2,Gonzaga,1,70,False,Wichita State,9,76,True
+2013,"West Regional – Los Angeles, California",round1,Pittsburgh,8,55,False,Wichita State,9,73,True
+2013,"West Regional – Los Angeles, California",round3,Wichita State,9,72,True,La Salle,13,58,False
+2013,"West Regional – Los Angeles, California",round1,Wisconsin,5,46,False,Mississippi,12,57,True
+2013,"West Regional – Los Angeles, California",round2,Mississippi,12,74,False,La Salle,13,76,True
+2013,"West Regional – Los Angeles, California",round1,Kansas State,4,61,False,La Salle,13,63,True
+2013,"West Regional – Los Angeles, California",round4,Wichita State,9,70,True,Ohio State,2,66,False
+2013,"West Regional – Los Angeles, California",round1,Arizona,6,81,True,Belmont,11,64,False
+2013,"West Regional – Los Angeles, California",round2,Arizona,6,74,True,Harvard,14,51,False
+2013,"West Regional – Los Angeles, California",round1,New Mexico,3,62,False,Harvard,14,68,True
+2013,"West Regional – Los Angeles, California",round3,Arizona,6,70,False,Ohio State,2,73,True
+2013,"West Regional – Los Angeles, California",round1,Notre Dame,7,58,False,Iowa State,10,76,True
+2013,"West Regional – Los Angeles, California",round2,Iowa State,10,75,False,Ohio State,2,78,True
+2013,"West Regional – Los Angeles, California",round1,Ohio State,2,95,True,Iona,15,70,False
+2013,"South Regional – Arlington, Texas",round1,Kansas,1,64,True,Western Kentucky,16,57,False
+2013,"South Regional – Arlington, Texas",round2,Kansas,1,70,True,North Carolina,8,58,False
+2013,"South Regional – Arlington, Texas",round1,North Carolina,8,78,True,Villanova,9,71,False
+2013,"South Regional – Arlington, Texas",round3,Kansas,1,85,False,Michigan,4,87*,True
+2013,"South Regional – Arlington, Texas",round1,VCU,5,88,True,Akron,12,42,False
+2013,"South Regional – Arlington, Texas",round2,VCU,5,53,False,Michigan,4,78,True
+2013,"South Regional – Arlington, Texas",round1,Michigan,4,71,True,South Dakota State,13,56,False
+2013,"South Regional – Arlington, Texas",round4,Michigan,4,79,True,Florida,3,59,False
+2013,"South Regional – Arlington, Texas",round1,UCLA,6,63,False,Minnesota,11,83,True
+2013,"South Regional – Arlington, Texas",round2,Minnesota,11,64,False,Florida,3,78,True
+2013,"South Regional – Arlington, Texas",round1,Florida,3,79,True,Northwestern State,14,47,False
+2013,"South Regional – Arlington, Texas",round3,Florida,3,62,True,Florida Gulf Coast,15,50,False
+2013,"South Regional – Arlington, Texas",round1,San Diego State,7,70,True,Oklahoma,10,55,False
+2013,"South Regional – Arlington, Texas",round2,San Diego State,7,71,False,Florida Gulf Coast,15,81,True
+2013,"South Regional – Arlington, Texas",round1,Georgetown,2,68,False,Florida Gulf Coast,15,78,True
+2013,"East Regional – Washington, D.C.",round1,Indiana,1,83,True,James Madison,16,62,False
+2013,"East Regional – Washington, D.C.",round2,Indiana,1,58,True,Temple,9,52,False
+2013,"East Regional – Washington, D.C.",round1,NC State,8,72,False,Temple,9,76,True
+2013,"East Regional – Washington, D.C.",round3,Indiana,1,50,False,Syracuse,4,61,True
+2013,"East Regional – Washington, D.C.",round1,UNLV,5,61,False,California,12,64,True
+2013,"East Regional – Washington, D.C.",round2,California,12,60,False,Syracuse,4,66,True
+2013,"East Regional – Washington, D.C.",round1,Syracuse,4,81,True,Montana,13,34,False
+2013,"East Regional – Washington, D.C.",round4,Syracuse,4,55,True,Marquette,3,39,False
+2013,"East Regional – Washington, D.C.",round1,Butler,6,68,True,Bucknell,11,56,False
+2013,"East Regional – Washington, D.C.",round2,Butler,6,72,False,Marquette,3,74,True
+2013,"East Regional – Washington, D.C.",round1,Marquette,3,59,True,Davidson,14,58,False
+2013,"East Regional – Washington, D.C.",round3,Marquette,3,71,True,Miami (FL),2,61,False
+2013,"East Regional – Washington, D.C.",round1,Illinois,7,57,True,Colorado,10,49,False
+2013,"East Regional – Washington, D.C.",round2,Illinois,7,59,False,Miami (FL),2,63,True
+2013,"East Regional – Washington, D.C.",round1,Miami (FL),2,78,True,Pacific,15,49,False
+2013,"Final Four – Georgia Dome, Atlanta, Georgia",round5,Louisville,MW1,72,True,Wichita State,W9,68,False
+2013,"Final Four – Georgia Dome, Atlanta, Georgia",round6,Louisville,MW1,82,True,Michigan,S4,76,False
+2013,"Final Four – Georgia Dome, Atlanta, Georgia",round5,Michigan,S4,61,True,Syracuse,E4,56,False
+2014,"South Regional – Memphis, Tennessee",round1,Florida,1,67,True,Albany,16,55,False
+2014,"South Regional – Memphis, Tennessee",round2,Florida,1,61,True,Pittsburgh,9,45,False
+2014,"South Regional – Memphis, Tennessee",round1,Colorado,8,48,False,Pittsburgh,9,77,True
+2014,"South Regional – Memphis, Tennessee",round3,Florida,1,79,True,UCLA,4,68,False
+2014,"South Regional – Memphis, Tennessee",round1,VCU,5,75,False,Stephen F. Austin,12,77*,True
+2014,"South Regional – Memphis, Tennessee",round2,Stephen F. Austin,12,60,False,UCLA,4,77,True
+2014,"South Regional – Memphis, Tennessee",round1,UCLA,4,76,True,Tulsa,13,59,False
+2014,"South Regional – Memphis, Tennessee",round4,Florida,1,62,True,Dayton,11,52,False
+2014,"South Regional – Memphis, Tennessee",round1,Ohio State,6,59,False,Dayton,11,60,True
+2014,"South Regional – Memphis, Tennessee",round2,Dayton,11,55,True,Syracuse,3,53,False
+2014,"South Regional – Memphis, Tennessee",round1,Syracuse,3,77,True,Western Michigan,14,53,False
+2014,"South Regional – Memphis, Tennessee",round3,Dayton,11,82,True,Stanford,10,72,False
+2014,"South Regional – Memphis, Tennessee",round1,New Mexico,7,53,False,Stanford,10,58,True
+2014,"South Regional – Memphis, Tennessee",round2,Stanford,10,60,True,Kansas,2,57,False
+2014,"South Regional – Memphis, Tennessee",round1,Kansas,2,80,True,Eastern Kentucky,15,69,False
+2014,"East Regional – New York City, New York",round1,Virginia,1,70,True,Coastal Carolina,16,59,False
+2014,"East Regional – New York City, New York",round2,Virginia,1,78,True,Memphis,8,60,False
+2014,"East Regional – New York City, New York",round1,Memphis,8,71,True,George Washington,9,66,False
+2014,"East Regional – New York City, New York",round3,Virginia,1,59,False,Michigan State,4,61,True
+2014,"East Regional – New York City, New York",round1,Cincinnati,5,57,False,Harvard,12,61,True
+2014,"East Regional – New York City, New York",round2,Harvard,12,73,False,Michigan State,4,80,True
+2014,"East Regional – New York City, New York",round1,Michigan State,4,93,True,Delaware,13,78,False
+2014,"East Regional – New York City, New York",round4,Michigan State,4,54,False,Connecticut,7,60,True
+2014,"East Regional – New York City, New York",round1,North Carolina,6,79,True,Providence,11,77,False
+2014,"East Regional – New York City, New York",round2,North Carolina,6,83,False,Iowa State,3,85,True
+2014,"East Regional – New York City, New York",round1,Iowa State,3,93,True,NC Central,14,75,False
+2014,"East Regional – New York City, New York",round3,Iowa State,3,76,False,Connecticut,7,81,True
+2014,"East Regional – New York City, New York",round1,Connecticut,7,89*,True,St. Joseph's,10,81,False
+2014,"East Regional – New York City, New York",round2,Connecticut,7,77,True,Villanova,2,65,False
+2014,"East Regional – New York City, New York",round1,Villanova,2,73,True,Milwaukee,15,53,False
+2014,"West Regional – Anaheim, California",round1,Arizona,1,68,True,Weber State,16,59,False
+2014,"West Regional – Anaheim, California",round2,Arizona,1,84,True,Gonzaga,8,61,False
+2014,"West Regional – Anaheim, California",round1,Gonzaga,8,85,True,Oklahoma State,9,77,False
+2014,"West Regional – Anaheim, California",round3,Arizona,1,70,True,San Diego State,4,64,False
+2014,"West Regional – Anaheim, California",round1,Oklahoma,5,75,False,North Dakota State,12,80*,True
+2014,"West Regional – Anaheim, California",round2,North Dakota State,12,44,False,San Diego State,4,63,True
+2014,"West Regional – Anaheim, California",round1,San Diego State,4,73*,True,New Mexico State,13,69,False
+2014,"West Regional – Anaheim, California",round4,Arizona,1,63,False,Wisconsin,2,64*,True
+2014,"West Regional – Anaheim, California",round1,Baylor,6,74,True,Nebraska,11,60,False
+2014,"West Regional – Anaheim, California",round2,Baylor,6,85,True,Creighton,3,55,False
+2014,"West Regional – Anaheim, California",round1,Creighton,3,76,True,Louisiana–Lafayette,14,66,False
+2014,"West Regional – Anaheim, California",round3,Baylor,6,52,False,Wisconsin,2,69,True
+2014,"West Regional – Anaheim, California",round1,Oregon,7,87,True,BYU,10,68,False
+2014,"West Regional – Anaheim, California",round2,Oregon,7,77,False,Wisconsin,2,85,True
+2014,"West Regional – Anaheim, California",round1,Wisconsin,2,75,True,American,15,35,False
+2014,"Midwest Regional – Indianapolis, Indiana",round1,Wichita State,1,64,True,Cal Poly,16,37,False
+2014,"Midwest Regional – Indianapolis, Indiana",round2,Wichita State,1,76,False,Kentucky,8,78,True
+2014,"Midwest Regional – Indianapolis, Indiana",round1,Kentucky,8,56,True,Kansas State,9,49,False
+2014,"Midwest Regional – Indianapolis, Indiana",round3,Kentucky,8,74,True,Louisville,4,69,False
+2014,"Midwest Regional – Indianapolis, Indiana",round1,Saint Louis,5,83*,True,NC State,12,80,False
+2014,"Midwest Regional – Indianapolis, Indiana",round2,Saint Louis,5,51,False,Louisville,4,66,True
+2014,"Midwest Regional – Indianapolis, Indiana",round1,Louisville,4,71,True,Manhattan,13,64,False
+2014,"Midwest Regional – Indianapolis, Indiana",round4,Kentucky,8,75,True,Michigan,2,72,False
+2014,"Midwest Regional – Indianapolis, Indiana",round1,Massachusetts,6,67,False,Tennessee,11,86,True
+2014,"Midwest Regional – Indianapolis, Indiana",round2,Tennessee,11,83,True,Mercer,14,63,False
+2014,"Midwest Regional – Indianapolis, Indiana",round1,Duke,3,71,False,Mercer,14,78,True
+2014,"Midwest Regional – Indianapolis, Indiana",round3,Tennessee,11,71,False,Michigan,2,73,True
+2014,"Midwest Regional – Indianapolis, Indiana",round1,Texas,7,87,True,Arizona State,10,85,False
+2014,"Midwest Regional – Indianapolis, Indiana",round2,Texas,7,65,False,Michigan,2,79,True
+2014,"Midwest Regional – Indianapolis, Indiana",round1,Michigan,2,57,True,Wofford,15,40,False
+2014,"Final Four – AT&T Stadium, Arlington, Texas",round5,Florida,S1,53,False,Connecticut,E7,63,True
+2014,"Final Four – AT&T Stadium, Arlington, Texas",round6,Connecticut,E7,60,True,Kentucky,MW8,54,False
+2014,"Final Four – AT&T Stadium, Arlington, Texas",round5,Wisconsin,W2,73,False,Kentucky,MW8,74,True
+2015,"Midwest Regional – Cleveland, Ohio",round1,Kentucky,1,79,True,Hampton,16,56,False
+2015,"Midwest Regional – Cleveland, Ohio",round2,Kentucky,1,64,True,Cincinnati,8,51,False
+2015,"Midwest Regional – Cleveland, Ohio",round1,Cincinnati,8,66*,True,Purdue,9,65,False
+2015,"Midwest Regional – Cleveland, Ohio",round3,Kentucky,1,78,True,West Virginia,5,39,False
+2015,"Midwest Regional – Cleveland, Ohio",round1,West Virginia,5,68,True,Buffalo,12,62,False
+2015,"Midwest Regional – Cleveland, Ohio",round2,West Virginia,5,69,True,Maryland,4,59,False
+2015,"Midwest Regional – Cleveland, Ohio",round1,Maryland,4,65,True,Valparaiso,13,62,False
+2015,"Midwest Regional – Cleveland, Ohio",round4,Kentucky,1,68,True,Notre Dame,3,66,False
+2015,"Midwest Regional – Cleveland, Ohio",round1,Butler,6,56,True,Texas,11,48,False
+2015,"Midwest Regional – Cleveland, Ohio",round2,Butler,6,64,False,Notre Dame,3,67*,True
+2015,"Midwest Regional – Cleveland, Ohio",round1,Notre Dame,3,69,True,Northeastern,14,65,False
+2015,"Midwest Regional – Cleveland, Ohio",round3,Notre Dame,3,81,True,Wichita State,7,70,False
+2015,"Midwest Regional – Cleveland, Ohio",round1,Wichita State,7,81,True,Indiana,10,76,False
+2015,"Midwest Regional – Cleveland, Ohio",round2,Wichita State,7,78,True,Kansas,2,65,False
+2015,"Midwest Regional – Cleveland, Ohio",round1,Kansas,2,75,True,New Mexico State,15,56,False
+2015,"West Regional – Los Angeles, California",round1,Wisconsin,1,86,True,Coastal Carolina,16,72,False
+2015,"West Regional – Los Angeles, California",round2,Wisconsin,1,72,True,Oregon,8,65,False
+2015,"West Regional – Los Angeles, California",round1,Oregon,8,79,True,Oklahoma State,9,73,False
+2015,"West Regional – Los Angeles, California",round3,Wisconsin,1,79,True,North Carolina,4,72,False
+2015,"West Regional – Los Angeles, California",round1,Arkansas,5,56,True,Wofford,12,53,False
+2015,"West Regional – Los Angeles, California",round2,Arkansas,5,78,False,North Carolina,4,87,True
+2015,"West Regional – Los Angeles, California",round1,North Carolina,4,67,True,Harvard,13,65,False
+2015,"West Regional – Los Angeles, California",round4,Wisconsin,1,85,True,Arizona,2,78,False
+2015,"West Regional – Los Angeles, California",round1,Xavier,6,76,True,Mississippi,11,57,False
+2015,"West Regional – Los Angeles, California",round2,Xavier,6,75,True,Georgia State,14,67,False
+2015,"West Regional – Los Angeles, California",round1,Baylor,3,56,False,Georgia State,14,57,True
+2015,"West Regional – Los Angeles, California",round3,Xavier,6,60,False,Arizona,2,68,True
+2015,"West Regional – Los Angeles, California",round1,Virginia Commonwealth,7,72,False,Ohio State,10,75*,True
+2015,"West Regional – Los Angeles, California",round2,Ohio State,10,58,False,Arizona,2,73,True
+2015,"West Regional – Los Angeles, California",round1,Arizona,2,93,True,Texas Southern,15,72,False
+2015,"East Regional – Syracuse, New York",round1,Villanova,1,93,True,Lafayette,16,52,False
+2015,"East Regional – Syracuse, New York",round2,Villanova,1,68,False,North Carolina State,8,71,True
+2015,"East Regional – Syracuse, New York",round1,North Carolina State,8,66,True,Louisiana State,9,65,False
+2015,"East Regional – Syracuse, New York",round3,North Carolina State,8,65,False,Louisville,4,75,True
+2015,"East Regional – Syracuse, New York",round1,Northern Iowa,5,71,True,Wyoming,12,54,False
+2015,"East Regional – Syracuse, New York",round2,Northern Iowa,5,53,False,Louisville,4,66,True
+2015,"East Regional – Syracuse, New York",round1,Louisville,4,57,True,California-Irvine,13,55,False
+2015,"East Regional – Syracuse, New York",round4,Louisville,4,70,False,Michigan State,7,76*,True
+2015,"East Regional – Syracuse, New York",round1,Providence,6,53,False,Dayton,11,66,True
+2015,"East Regional – Syracuse, New York",round2,Dayton,11,66,False,Oklahoma,3,72,True
+2015,"East Regional – Syracuse, New York",round1,Oklahoma,3,69,True,Albany,14,60,False
+2015,"East Regional – Syracuse, New York",round3,Oklahoma,3,58,False,Michigan State,7,62,True
+2015,"East Regional – Syracuse, New York",round1,Michigan State,7,70,True,Georgia,10,63,False
+2015,"East Regional – Syracuse, New York",round2,Michigan State,7,60,True,Virginia,2,54,False
+2015,"East Regional – Syracuse, New York",round1,Virginia,2,79,True,Belmont,15,67,False
+2015,"South Regional – Houston, Texas",round1,Duke,1,85,True,Robert Morris,16,56,False
+2015,"South Regional – Houston, Texas",round2,Duke,1,68,True,San Diego State,8,49,False
+2015,"South Regional – Houston, Texas",round1,San Diego State,8,76,True,St. John's,9,64,False
+2015,"South Regional – Houston, Texas",round3,Duke,1,63,True,Utah,5,57,False
+2015,"South Regional – Houston, Texas",round1,Utah,5,57,True,Stephen F. Austin,12,50,False
+2015,"South Regional – Houston, Texas",round2,Utah,5,75,True,Georgetown,4,64,False
+2015,"South Regional – Houston, Texas",round1,Georgetown,4,84,True,Eastern Washington,13,74,False
+2015,"South Regional – Houston, Texas",round4,Duke,1,66,True,Gonzaga,2,52,False
+2015,"South Regional – Houston, Texas",round1,Southern Methodist,6,59,False,UCLA,11,60,True
+2015,"South Regional – Houston, Texas",round2,UCLA,11,92,True,UAB,14,75,False
+2015,"South Regional – Houston, Texas",round1,Iowa State,3,59,False,UAB,14,60,True
+2015,"South Regional – Houston, Texas",round3,UCLA,11,62,False,Gonzaga,2,74,True
+2015,"South Regional – Houston, Texas",round1,Iowa,7,83,True,Davidson,10,52,False
+2015,"South Regional – Houston, Texas",round2,Iowa,7,68,False,Gonzaga,2,87,True
+2015,"South Regional – Houston, Texas",round1,Gonzaga,2,86,True,North Dakota State,15,76,False
+2015,"Lucas Oil Stadium – Indianapolis, Indiana",round5,Kentucky,MW1,64,False,Wisconsin,W1,71,True
+2015,"Lucas Oil Stadium – Indianapolis, Indiana",round6,Wisconsin,W1,63,False,Duke,S1,68,True
+2015,"Lucas Oil Stadium – Indianapolis, Indiana",round5,Michigan State,E7,61,False,Duke,S1,81,True
+2016,"South Regional – Louisville, Kentucky",round1,Kansas,1,105,True,Austin Peay,16,79,False
+2016,"South Regional – Louisville, Kentucky",round2,Kansas,1,73,True,Connecticut,9,61,False
+2016,"South Regional – Louisville, Kentucky",round1,Colorado,8,67,False,Connecticut,9,74,True
+2016,"South Regional – Louisville, Kentucky",round3,Kansas,1,79,True,Maryland,5,63,False
+2016,"South Regional – Louisville, Kentucky",round1,Maryland,5,79,True,South Dakota State,12,74,False
+2016,"South Regional – Louisville, Kentucky",round2,Maryland,5,73,True,Hawaii,13,60,False
+2016,"South Regional – Louisville, Kentucky",round1,California,4,66,False,Hawaii,13,77,True
+2016,"South Regional – Louisville, Kentucky",round4,Kansas,1,59,False,Villanova,2,64,True
+2016,"South Regional – Louisville, Kentucky",round1,Arizona,6,55,False,Wichita State,11,65,True
+2016,"South Regional – Louisville, Kentucky",round2,Wichita State,11,57,False,Miami (FL),3,65,True
+2016,"South Regional – Louisville, Kentucky",round1,Miami (FL),3,79,True,Buffalo,14,72,False
+2016,"South Regional – Louisville, Kentucky",round3,Miami (FL),3,69,False,Villanova,2,92,True
+2016,"South Regional – Louisville, Kentucky",round1,Iowa,7,72*,True,Temple,10,70,False
+2016,"South Regional – Louisville, Kentucky",round2,Iowa,7,68,False,Villanova,2,87,True
+2016,"South Regional – Louisville, Kentucky",round1,Villanova,2,86,True,UNC Asheville,15,56,False
+2016,"West Regional – Anaheim, California",round1,Oregon,1,91,True,Holy Cross,16,52,False
+2016,"West Regional – Anaheim, California",round2,Oregon,1,69,True,Saint Joseph's,8,64,False
+2016,"West Regional – Anaheim, California",round1,Saint Joseph's,8,78,True,Cincinnati,9,76,False
+2016,"West Regional – Anaheim, California",round3,Oregon,1,82,True,Duke,4,68,False
+2016,"West Regional – Anaheim, California",round1,Baylor,5,75,False,Yale,12,79,True
+2016,"West Regional – Anaheim, California",round2,Yale,12,64,False,Duke,4,71,True
+2016,"West Regional – Anaheim, California",round1,Duke,4,93,True,UNC Wilmington,13,85,False
+2016,"West Regional – Anaheim, California",round4,Oregon,1,68,False,Oklahoma,2,80,True
+2016,"West Regional – Anaheim, California",round1,Texas,6,72,False,Northern Iowa,11,75,True
+2016,"West Regional – Anaheim, California",round2,Northern Iowa,11,88,False,Texas A&M,3,92**,True
+2016,"West Regional – Anaheim, California",round1,Texas A&M,3,92,True,Green Bay,14,65,False
+2016,"West Regional – Anaheim, California",round3,Texas A&M,3,63,False,Oklahoma,2,77,True
+2016,"West Regional – Anaheim, California",round1,Oregon State,7,67,False,VCU,10,75,True
+2016,"West Regional – Anaheim, California",round2,VCU,10,81,False,Oklahoma,2,85,True
+2016,"West Regional – Anaheim, California",round1,Oklahoma,2,82,True,Cal State Bakersfield,15,68,False
+2016,"East Regional – Philadelphia, Pennsylvania",round1,North Carolina,1,83,True,Florida Gulf Coast,16,67,False
+2016,"East Regional – Philadelphia, Pennsylvania",round2,North Carolina,1,85,True,Providence,9,66,False
+2016,"East Regional – Philadelphia, Pennsylvania",round1,USC,8,69,False,Providence,9,70,True
+2016,"East Regional – Philadelphia, Pennsylvania",round3,North Carolina,1,101,True,Indiana,5,86,False
+2016,"East Regional – Philadelphia, Pennsylvania",round1,Indiana,5,99,True,Chattanooga,12,74,False
+2016,"East Regional – Philadelphia, Pennsylvania",round2,Indiana,5,73,True,Kentucky,4,67,False
+2016,"East Regional – Philadelphia, Pennsylvania",round1,Kentucky,4,85,True,Stony Brook,13,57,False
+2016,"East Regional – Philadelphia, Pennsylvania",round4,North Carolina,1,88,True,Notre Dame,6,74,False
+2016,"East Regional – Philadelphia, Pennsylvania",round1,Notre Dame,6,70,True,Michigan,11,63,False
+2016,"East Regional – Philadelphia, Pennsylvania",round2,Notre Dame,6,76,True,Stephen F. Austin,14,75,False
+2016,"East Regional – Philadelphia, Pennsylvania",round1,West Virginia,3,56,False,Stephen F. Austin,14,70,True
+2016,"East Regional – Philadelphia, Pennsylvania",round3,Notre Dame,6,61,True,Wisconsin,7,56,False
+2016,"East Regional – Philadelphia, Pennsylvania",round1,Wisconsin,7,47,True,Pittsburgh,10,43,False
+2016,"East Regional – Philadelphia, Pennsylvania",round2,Wisconsin,7,66,True,Xavier,2,63,False
+2016,"East Regional – Philadelphia, Pennsylvania",round1,Xavier,2,71,True,Weber State,15,53,False
+2016,"Midwest Regional – Chicago, Illinois",round1,Virginia,1,81,True,Hampton,16,45,False
+2016,"Midwest Regional – Chicago, Illinois",round2,Virginia,1,77,True,Butler,9,69,False
+2016,"Midwest Regional – Chicago, Illinois",round1,Texas Tech,8,61,False,Butler,9,71,True
+2016,"Midwest Regional – Chicago, Illinois",round3,Virginia,1,84,True,Iowa State,4,71,False
+2016,"Midwest Regional – Chicago, Illinois",round1,Purdue,5,83,False,Little Rock,12,85**,True
+2016,"Midwest Regional – Chicago, Illinois",round2,Little Rock,12,61,False,Iowa State,4,78,True
+2016,"Midwest Regional – Chicago, Illinois",round1,Iowa State,4,94,True,Iona,13,81,False
+2016,"Midwest Regional – Chicago, Illinois",round4,Virginia,1,62,False,Syracuse,10,68,True
+2016,"Midwest Regional – Chicago, Illinois",round1,Seton Hall,6,52,False,Gonzaga,11,68,True
+2016,"Midwest Regional – Chicago, Illinois",round2,Gonzaga,11,82,True,Utah,3,59,False
+2016,"Midwest Regional – Chicago, Illinois",round1,Utah,3,80,True,Fresno State,14,69,False
+2016,"Midwest Regional – Chicago, Illinois",round3,Gonzaga,11,60,False,Syracuse,10,63,True
+2016,"Midwest Regional – Chicago, Illinois",round1,Dayton,7,51,False,Syracuse,10,70,True
+2016,"Midwest Regional – Chicago, Illinois",round2,Syracuse,10,75,True,Middle Tennessee,15,50,False
+2016,"Midwest Regional – Chicago, Illinois",round1,Michigan State,2,81,False,Middle Tennessee,15,90,True
+2016,"NRG Stadium – Houston, Texas",round5,Villanova,S2,95,True,Oklahoma,W2,51,False
+2016,"NRG Stadium – Houston, Texas",round6,Villanova,S2,77,True,North Carolina,E1,74,False
+2016,"NRG Stadium – Houston, Texas",round5,North Carolina,E1,83,True,Syracuse,MW10,66,False
+2017,"East Regional – New York City, New York",round1,Villanova,1,76,True,Mount St. Mary's,16,56,False
+2017,"East Regional – New York City, New York",round2,Villanova,1,62,False,Wisconsin,8,65,True
+2017,"East Regional – New York City, New York",round1,Wisconsin,8,84,True,Virginia Tech,9,74,False
+2017,"East Regional – New York City, New York",round3,Wisconsin,8,83,False,Florida,4,84*,True
+2017,"East Regional – New York City, New York",round1,Virginia,5,76,True,UNC Wilmington,12,71,False
+2017,"East Regional – New York City, New York",round2,Virginia,5,39,False,Florida,4,65,True
+2017,"East Regional – New York City, New York",round1,Florida,4,80,True,East Tennessee State,13,65,False
+2017,"East Regional – New York City, New York",round4,Florida,4,70,False,South Carolina,7,77,True
+2017,"East Regional – New York City, New York",round1,SMU,6,65,False,USC,11,66,True
+2017,"East Regional – New York City, New York",round2,USC,11,78,False,Baylor,3,82,True
+2017,"East Regional – New York City, New York",round1,Baylor,3,91,True,New Mexico State,14,73,False
+2017,"East Regional – New York City, New York",round3,Baylor,3,50,False,South Carolina,7,70,True
+2017,"East Regional – New York City, New York",round1,South Carolina,7,93,True,Marquette,10,73,False
+2017,"East Regional – New York City, New York",round2,South Carolina,7,88,True,Duke,2,81,False
+2017,"East Regional – New York City, New York",round1,Duke,2,87,True,Troy,15,65,False
+2017,"West Regional – San Jose, California",round1,Gonzaga,1,66,True,South Dakota State,16,46,False
+2017,"West Regional – San Jose, California",round2,Gonzaga,1,79,True,Northwestern,8,73,False
+2017,"West Regional – San Jose, California",round1,Northwestern,8,68,True,Vanderbilt,9,66,False
+2017,"West Regional – San Jose, California",round3,Gonzaga,1,61,True,West Virginia,4,58,False
+2017,"West Regional – San Jose, California",round1,Notre Dame,5,60,True,Princeton,12,58,False
+2017,"West Regional – San Jose, California",round2,Notre Dame,5,71,False,West Virginia,4,83,True
+2017,"West Regional – San Jose, California",round1,West Virginia,4,86,True,Bucknell,13,80,False
+2017,"West Regional – San Jose, California",round4,Gonzaga,1,83,True,Xavier,11,59,False
+2017,"West Regional – San Jose, California",round1,Maryland,6,65,False,Xavier,11,76,True
+2017,"West Regional – San Jose, California",round2,Xavier,11,91,True,Florida State,3,66,False
+2017,"West Regional – San Jose, California",round1,Florida State,3,86,True,Florida Gulf Coast,14,80,False
+2017,"West Regional – San Jose, California",round3,Xavier,11,73,True,Arizona,2,71,False
+2017,"West Regional – San Jose, California",round1,Saint Mary's,7,85,True,VCU,10,77,False
+2017,"West Regional – San Jose, California",round2,Saint Mary's,7,60,False,Arizona,2,69,True
+2017,"West Regional – San Jose, California",round1,Arizona,2,100,True,North Dakota,15,82,False
+2017,"Midwest Regional – Kansas City, Missouri",round1,Kansas,1,100,True,UC Davis,16,62,False
+2017,"Midwest Regional – Kansas City, Missouri",round2,Kansas,1,90,True,Michigan State,9,70,False
+2017,"Midwest Regional – Kansas City, Missouri",round1,Miami (FL),8,58,False,Michigan State,9,78,True
+2017,"Midwest Regional – Kansas City, Missouri",round3,Kansas,1,98,True,Purdue,4,66,False
+2017,"Midwest Regional – Kansas City, Missouri",round1,Iowa State,5,84,True,Nevada,12,73,False
+2017,"Midwest Regional – Kansas City, Missouri",round2,Iowa State,5,76,False,Purdue,4,80,True
+2017,"Midwest Regional – Kansas City, Missouri",round1,Purdue,4,80,True,Vermont,13,70,False
+2017,"Midwest Regional – Kansas City, Missouri",round4,Kansas,1,60,False,Oregon,3,74,True
+2017,"Midwest Regional – Kansas City, Missouri",round1,Creighton,6,72,False,Rhode Island,11,84,True
+2017,"Midwest Regional – Kansas City, Missouri",round2,Rhode Island,11,72,False,Oregon,3,75,True
+2017,"Midwest Regional – Kansas City, Missouri",round1,Oregon,3,93,True,Iona,14,77,False
+2017,"Midwest Regional – Kansas City, Missouri",round3,Oregon,3,69,True,Michigan,7,68,False
+2017,"Midwest Regional – Kansas City, Missouri",round1,Michigan,7,92,True,Oklahoma State,10,91,False
+2017,"Midwest Regional – Kansas City, Missouri",round2,Michigan,7,73,True,Louisville,2,69,False
+2017,"Midwest Regional – Kansas City, Missouri",round1,Louisville,2,78,True,Jacksonville State,15,63,False
+2017,"South Regional – Memphis, Tennessee",round1,North Carolina,1,103,True,Texas Southern,16,64,False
+2017,"South Regional – Memphis, Tennessee",round2,North Carolina,1,72,True,Arkansas,8,65,False
+2017,"South Regional – Memphis, Tennessee",round1,Arkansas,8,77,True,Seton Hall,9,71,False
+2017,"South Regional – Memphis, Tennessee",round3,North Carolina,1,92,True,Butler,4,80,False
+2017,"South Regional – Memphis, Tennessee",round1,Minnesota,5,72,False,Middle Tennessee,12,81,True
+2017,"South Regional – Memphis, Tennessee",round2,Middle Tennessee,12,65,False,Butler,4,74,True
+2017,"South Regional – Memphis, Tennessee",round1,Butler,4,76,True,Winthrop,13,64,False
+2017,"South Regional – Memphis, Tennessee",round4,North Carolina,1,75,True,Kentucky,2,73,False
+2017,"South Regional – Memphis, Tennessee",round1,Cincinnati,6,75,True,Kansas State,11,61,False
+2017,"South Regional – Memphis, Tennessee",round2,Cincinnati,6,67,False,UCLA,3,79,True
+2017,"South Regional – Memphis, Tennessee",round1,UCLA,3,97,True,Kent State,14,80,False
+2017,"South Regional – Memphis, Tennessee",round3,UCLA,3,75,False,Kentucky,2,86,True
+2017,"South Regional – Memphis, Tennessee",round1,Dayton,7,58,False,Wichita State,10,64,True
+2017,"South Regional – Memphis, Tennessee",round2,Wichita State,10,62,False,Kentucky,2,65,True
+2017,"South Regional – Memphis, Tennessee",round1,Kentucky,2,79,True,Northern Kentucky,15,70,False
+2017,"University of Phoenix Stadium – Glendale, Arizona",round5,South Carolina,E7,73,False,Gonzaga,W1,77,True
+2017,"University of Phoenix Stadium – Glendale, Arizona",round6,Gonzaga,W1,65,False,North Carolina,S1,71,True
+2017,"University of Phoenix Stadium – Glendale, Arizona",round5,Oregon,MW3,76,False,North Carolina,S1,77,True
+2018,"South Regional – Atlanta, Georgia",round1,Virginia,1,54,False,UMBC,16,74,True
+2018,"South Regional – Atlanta, Georgia",round2,UMBC,16,43,False,Kansas State,9,50,True
+2018,"South Regional – Atlanta, Georgia",round1,Creighton,8,59,False,Kansas State,9,69,True
+2018,"South Regional – Atlanta, Georgia",round3,Kansas State,9,61,True,Kentucky,5,58,False
+2018,"South Regional – Atlanta, Georgia",round1,Kentucky,5,78,True,Davidson,12,73,False
+2018,"South Regional – Atlanta, Georgia",round2,Kentucky,5,95,True,Buffalo,13,75,False
+2018,"South Regional – Atlanta, Georgia",round1,Arizona,4,68,False,Buffalo,13,89,True
+2018,"South Regional – Atlanta, Georgia",round4,Kansas State,9,62,False,Loyola–Chicago,11,78,True
+2018,"South Regional – Atlanta, Georgia",round1,Miami (FL),6,62,False,Loyola–Chicago,11,64,True
+2018,"South Regional – Atlanta, Georgia",round2,Loyola–Chicago,11,63,True,Tennessee,3,62,False
+2018,"South Regional – Atlanta, Georgia",round1,Tennessee,3,73,True,Wright State,14,47,False
+2018,"South Regional – Atlanta, Georgia",round3,Loyola–Chicago,11,69,True,Nevada,7,68,False
+2018,"South Regional – Atlanta, Georgia",round1,Nevada,7,87*,True,Texas,10,83,False
+2018,"South Regional – Atlanta, Georgia",round2,Nevada,7,75,True,Cincinnati,2,73,False
+2018,"South Regional – Atlanta, Georgia",round1,Cincinnati,2,68,True,Georgia State,15,53,False
+2018,"West Regional – Los Angeles, California",round1,Xavier,1,102,True,Texas Southern,16,83,False
+2018,"West Regional – Los Angeles, California",round2,Xavier,1,70,False,Florida State,9,75,True
+2018,"West Regional – Los Angeles, California",round1,Missouri,8,54,False,Florida State,9,67,True
+2018,"West Regional – Los Angeles, California",round3,Florida State,9,75,True,Gonzaga,4,60,False
+2018,"West Regional – Los Angeles, California",round1,Ohio State,5,81,True,South Dakota State,12,73,False
+2018,"West Regional – Los Angeles, California",round2,Ohio State,5,84,False,Gonzaga,4,90,True
+2018,"West Regional – Los Angeles, California",round1,Gonzaga,4,68,True,UNC Greensboro,13,64,False
+2018,"West Regional – Los Angeles, California",round4,Florida State,9,54,False,Michigan,3,58,True
+2018,"West Regional – Los Angeles, California",round1,Houston,6,67,True,San Diego State,11,65,False
+2018,"West Regional – Los Angeles, California",round2,Houston,6,63,False,Michigan,3,64,True
+2018,"West Regional – Los Angeles, California",round1,Michigan,3,61,True,Montana,14,47,False
+2018,"West Regional – Los Angeles, California",round3,Michigan,3,99,True,Texas A&M,7,72,False
+2018,"West Regional – Los Angeles, California",round1,Texas A&M,7,73,True,Providence,10,69,False
+2018,"West Regional – Los Angeles, California",round2,Texas A&M,7,86,True,North Carolina,2,65,False
+2018,"West Regional – Los Angeles, California",round1,North Carolina,2,84,True,Lipscomb,15,66,False
+2018,"East Regional – Boston, Massachusetts",round1,Villanova,1,87,True,Radford,16,61,False
+2018,"East Regional – Boston, Massachusetts",round2,Villanova,1,81,True,Alabama,9,58,False
+2018,"East Regional – Boston, Massachusetts",round1,Virginia Tech,8,83,False,Alabama,9,86,True
+2018,"East Regional – Boston, Massachusetts",round3,Villanova,1,90,True,West Virginia,5,78,False
+2018,"East Regional – Boston, Massachusetts",round1,West Virginia,5,85,True,Murray State,12,68,False
+2018,"East Regional – Boston, Massachusetts",round2,West Virginia,5,94,True,Marshall,13,71,False
+2018,"East Regional – Boston, Massachusetts",round1,Wichita State,4,75,False,Marshall,13,81,True
+2018,"East Regional – Boston, Massachusetts",round4,Villanova,1,71,True,Texas Tech,3,59,False
+2018,"East Regional – Boston, Massachusetts",round1,Florida,6,77,True,St. Bonaventure,11,62,False
+2018,"East Regional – Boston, Massachusetts",round2,Florida,6,66,False,Texas Tech,3,69,True
+2018,"East Regional – Boston, Massachusetts",round1,Texas Tech,3,70,True,Stephen F. Austin,14,60,False
+2018,"East Regional – Boston, Massachusetts",round3,Texas Tech,3,78,True,Purdue,2,65,False
+2018,"East Regional – Boston, Massachusetts",round1,Arkansas,7,62,False,Butler,10,79,True
+2018,"East Regional – Boston, Massachusetts",round2,Butler,10,73,False,Purdue,2,76,True
+2018,"East Regional – Boston, Massachusetts",round1,Purdue,2,74,True,Cal State Fullerton,15,48,False
+2018,"Midwest Regional – Omaha, Nebraska",round1,Kansas,1,76,True,Penn,16,60,False
+2018,"Midwest Regional – Omaha, Nebraska",round2,Kansas,1,83,True,Seton Hall,8,79,False
+2018,"Midwest Regional – Omaha, Nebraska",round1,Seton Hall,8,94,True,NC State,9,83,False
+2018,"Midwest Regional – Omaha, Nebraska",round3,Kansas,1,80,True,Clemson,5,76,False
+2018,"Midwest Regional – Omaha, Nebraska",round1,Clemson,5,79,True,New Mexico State,12,68,False
+2018,"Midwest Regional – Omaha, Nebraska",round2,Clemson,5,84,True,Auburn,4,53,False
+2018,"Midwest Regional – Omaha, Nebraska",round1,Auburn,4,62,True,College of Charleston,13,58,False
+2018,"Midwest Regional – Omaha, Nebraska",round4,Kansas,1,85*,True,Duke,2,81,False
+2018,"Midwest Regional – Omaha, Nebraska",round1,TCU,6,52,False,Syracuse,11,57,True
+2018,"Midwest Regional – Omaha, Nebraska",round2,Syracuse,11,55,True,Michigan State,3,53,False
+2018,"Midwest Regional – Omaha, Nebraska",round1,Michigan State,3,82,True,Bucknell,14,78,False
+2018,"Midwest Regional – Omaha, Nebraska",round3,Syracuse,11,65,False,Duke,2,69,True
+2018,"Midwest Regional – Omaha, Nebraska",round1,Rhode Island,7,83*,True,Oklahoma,10,78,False
+2018,"Midwest Regional – Omaha, Nebraska",round2,Rhode Island,7,62,False,Duke,2,87,True
+2018,"Midwest Regional – Omaha, Nebraska",round1,Duke,2,89,True,Iona,15,67,False
+2018,"Alamodome – San Antonio, Texas",round5,Loyola–Chicago,S11,57,False,Michigan,W3,69,True
+2018,"Alamodome – San Antonio, Texas",round6,Michigan,W3,62,False,Villanova,E1,79,True
+2018,"Alamodome – San Antonio, Texas",round5,Villanova,E1,95,True,Kansas,MW1,79,False
